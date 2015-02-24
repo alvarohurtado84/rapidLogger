@@ -8,6 +8,6 @@ I will use Django + Django Rest Framework in the backend side. I will use Anguja
 
 ### Why?
 
-Because I like Bullet Journal.
-Because I want to learn how to build APIs.
-Because I want to learn how to build Single Page Applications.
+- Because I like Bullet Journal but I don't use notebooks.
+- Because I want to learn how to build APIs.
+- Because I want to learn how to build Single Page Applications.
